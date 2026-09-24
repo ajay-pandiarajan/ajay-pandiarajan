@@ -10,17 +10,17 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **[VLSI desgins and Embedded Systems]**
-- 👯 I’m looking to collaborate on **[Open Source Projects / Web Apps]**
-- 💬 Ask me about **[Your Core based Projects, Embedded Systems, etc.,]**
-- 📫 Reach me at **[ajaypandiyarajann@gmail.com]**
+- 🌱 I’m currently learning VLSI desgins and Embedded Systems
+- 👯 I’m looking to collaborate on Open Source Projects / Web Apps
+- 💬 Ask me about Your Core based Projects, Embedded Systems, etc.,
+- 📫 Reach me at ajaypandiyarajann@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,arduino,esp32,raspberrypi,matlab,python,c,cpp" />
 </p>
 
 ---
