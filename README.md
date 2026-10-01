@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Ajay Pandiarajan </h1>
+<h1 align="center">Hi 👋, I'm Ajay Pandiarajan </h1>
 <h3 align="center">An ECE Pre-Final Year Student at Mepco Schlenk Engineering College with a strong interest in VLSI design and Embedded Systems. Currently building a solid foundation in digital design, Verilog/VHDL, and microcontroller-based projects. </h3>
 
 <br>
